@@ -4,9 +4,9 @@
   <subtitle>全力追求卓越</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://sanmeiwen.github.io/"/>
   <updated>2017-01-17T14:59:43.184Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://sanmeiwen.github.io/</id>
   
   <author>
     <name>SanMeiWen</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/01/17/hello-world/"/>
-    <id>http://yoursite.com/2017/01/17/hello-world/</id>
+    <link href="https://sanmeiwen.github.io/2017/01/17/hello-world/"/>
+    <id>https://sanmeiwen.github.io/2017/01/17/hello-world/</id>
     <published>2017-01-17T14:59:43.184Z</published>
     <updated>2017-01-17T14:59:43.184Z</updated>
     
