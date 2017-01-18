@@ -24,7 +24,7 @@
 <meta property="og:title" content="categories">
 <meta property="og:url" content="https://sanmeiwen.github.io/categories/index.html">
 <meta property="og:site_name" content="SanMeiWen's Blog">
-<meta property="og:updated_time" content="2017-01-18T16:52:28.462Z">
+<meta property="og:updated_time" content="2017-01-18T17:34:54.069Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="categories">
     
@@ -38,7 +38,7 @@
 <body>
     <div id="loading" class="active"></div>
 
-    <aside id="menu" class="hide" >
+    <aside id="menu"  >
   <div class="inner flex-row-vertical">
     <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="menu-off">
         <i class="icon icon-lg icon-close"></i>
@@ -110,7 +110,7 @@
         <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light on" id="menu-toggle">
           <i class="icon icon-lg icon-navicon"></i>
         </a>
-        <div class="flex-col header-title ellipsis">categories</div>
+        <div class="flex-col header-title ellipsis">Categories</div>
         
         <div class="search-wrap" id="search-wrap">
             <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="back">
@@ -129,64 +129,78 @@
         
     </div>
 </header>
-<header class="content-header page-header">
+<header class="content-header categories-header">
 
     <div class="container fade-scale">
-        <h1 class="title">categories</h1>
+        <h1 class="title">Categories</h1>
         <h5 class="subtitle">
             
         </h5>
     </div>
 
-    
+     
+<div class="tabs-bar container">
+    <nav class="tags-list">
+        <a href="/categories" style="-webkit-order:-1;order:-1" class="tags-list-item waves-effect waves-button waves-light
+             active">全部</a>
+         
+
+            <a href="/categories/Blogs/" style="-webkit-order:0;order:0" class="tags-list-item waves-effect waves-button waves-light">Blogs</a>
+
+        
+    </nav>
+    <!-- PC show more-->
+    <div class="tags-list-more">
+        <a href="javascript:;" onclick="BLOG.tabBar(this)" class="action tags-list-item waves-effect waves-circle waves-light"><i class="icon icon-ellipsis-h"></i></a>
+    </div>
+</div>
+
 
 </header>
 
-
-<div class="container body-wrap">
-    <article class="page-article fade" itemprop="blogPage">
-        <div class="post-content page-content" id="page-content" itemprop="pageContent">
-            
-        </div>
-
-        
-
-        
-<div class="page-reward">
-    <a id="rewardBtn" href="javascript:;" class="page-reward-btn waves-effect waves-circle waves-light">赏</a>
-</div>
-
-
-
-        
-
-    </article>
+<div class="container body-wrap fade">
     
-<div id="reward" class="page-modal reward-lay">
-    <a class="close" href="javascript:;"><i class="icon icon-close"></i></a>
-    <h3 class="reward-title">
-        <i class="icon icon-quote-left"></i>
-        谢谢，大爷~
-        <i class="icon icon-quote-right"></i>
+
+            <h3 class="archive-separator" id="tag-Blogs">Blogs</h3>
+
+            <div class="waterfall">
+            
+
+                <div class="waterfall-item">
+  <article class="article-card archive-article">
+    <div class="post-meta">
+      <time class="post-time" title="2016年05月10日 10:47" datetime="2016-05-10T02:47:49.000Z"  itemprop="datePublished">May 10, 2016</time>
+
+      
+	<ul class="article-category-list"><li class="article-category-list-item"><a class="article-category-list-link" href="/categories/Blogs/">Blogs</a></li></ul>
+
+
+
+    </div>
+    
+
+
+  
+    <h3 class="post-title" itemprop="name">
+      <a class="post-title-link" href="/2016/05/10/hello-world/">Hello World</a>
     </h3>
-    <ul class="reward-items">
-        
-        <li>
-            <img src="/img/wechat.jpg" title="微信打赏二维码" alt="微信打赏二维码">
-            <p>微信</p>
-        </li>
-        
+  
 
+
+
+    
+    <div class="post-footer">
         
-        <li>
-            <img src="/img/alipay.jpg" title="支付宝打赏二维码" alt="支付宝打赏二维码">
-            <p>支付宝</p>
-        </li>
-        
-    </ul>
+	<ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/a/">a</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/b/">b</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/c/">c</a></li></ul>
+
+    </div>
+    
+  </article>
 </div>
-
-
+            
+            </div>
+        
+    
 </div>
 
         <footer class="footer">
@@ -268,7 +282,7 @@
 
     <script src="//cdn.bootcss.com/node-waves/0.7.4/waves.min.js"></script>
 <script>
-var BLOG = { ROOT: '/', SHARE: true, REWARD: true };
+var BLOG = { ROOT: '/', SHARE: true, REWARD: false };
 
 
 
