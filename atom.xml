@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://sanmeiwen.github.io/"/>
-  <updated>2017-03-21T18:13:52.851Z</updated>
+  <updated>2017-03-22T14:54:02.638Z</updated>
   <id>https://sanmeiwen.github.io/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hexo创建个人博客（附加插入图片、分享、评论、标签页、搜索）</title>
+    <title>用 github pages 和 hexo创建个人博客（一）——环境搭建</title>
     <link href="https://sanmeiwen.github.io/2017/03/22/hexo+gitub(%E7%A0%81%E4%BA%91)%20pages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     <id>https://sanmeiwen.github.io/2017/03/22/hexo+gitub(码云) pages搭建个人博客/</id>
     <published>2017-03-21T16:04:29.000Z</published>
-    <updated>2017-03-21T18:13:52.851Z</updated>
+    <updated>2017-03-22T14:54:02.638Z</updated>
     
     <content type="html"><![CDATA[<p>你是不是见多了各种大v的个人博客，是不是也想拥有这样的一个个人博客，（静静的装B！）看这里，就对了。一步一步教你创建自己的博客。现在用的比较多的就是hexo（快速、简洁且高效的博客框架），支持markDown，有丰富的插件和主题</p>
 ]]></content>
@@ -32,6 +32,12 @@
     
     </summary>
     
+      <category term="Blogs" scheme="https://sanmeiwen.github.io/categories/Blogs/"/>
+    
+    
+      <category term="github pages" scheme="https://sanmeiwen.github.io/tags/github-pages/"/>
+    
+      <category term="hexo" scheme="https://sanmeiwen.github.io/tags/hexo/"/>
     
   </entry>
   
