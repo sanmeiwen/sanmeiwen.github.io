@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://sanmeiwen.github.io/"/>
-  <updated>2017-03-23T14:25:04.603Z</updated>
+  <updated>2017-03-23T15:00:58.650Z</updated>
   <id>https://sanmeiwen.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://sanmeiwen.github.io/2017/03/22/githubpages_1/"/>
     <id>https://sanmeiwen.github.io/2017/03/22/githubpages_1/</id>
     <published>2017-03-21T16:04:29.000Z</published>
-    <updated>2017-03-23T14:25:04.603Z</updated>
+    <updated>2017-03-23T15:00:58.650Z</updated>
     
     <content type="html"><![CDATA[<figure class="image-bubble">
                 <div class="img-lightbox">
@@ -37,19 +37,38 @@
 <li>ITeye : 主要是 java 博客，自从用的java不多的时候都很少上这个网站了，更别说是写博客了，写了几篇就没写了（主要是因为浏览的人太少了——写的太烂）。</li>
 <li>其他的用的就更少了，这里就不提了……</li>
 </ul>
-<p>初恋总的来时还是很好用的，毕竟憋了好多年，怎么可能不好用嘛，想想假如你自己三天没吃饭了，给你狗粮，你都会觉得倍儿香（此处省略）……<br><figure class="image-bubble">
+<p>初恋总的来时还是很好用的，毕竟憋了好多年，怎么可能不好用嘛，想想假如你自己三天没吃饭了，给你狗粮，你都会觉得倍儿香（此处省略 47 个字）……<br><figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="/2017/03/22/githubpages_1/dog_eat.png" alt="看看你吃狗粮多开心啊……" title="">
+                    <img src="/2017/03/22/githubpages_1/dog_eat.jpg" alt="看看你吃狗粮多开心啊……" title="">
                 </div>
                 <div class="image-caption">看看你吃狗粮多开心啊……</div>
             </figure></p>
 <h3 id="第二阶段：自力更生"><a href="#第二阶段：自力更生" class="headerlink" title="第二阶段：自力更生"></a>第二阶段：自力更生</h3><p>跟免费的 Blog 空间谈了也是蛮久的恋爱，但是越来越发现便宜的东西不好用，限制还多的要死，我们都是向往自由的，所以分手了，自力更生，可累坏了我这一双手了，心疼啊。</p>
 <p>后来就自己买域名，买空间，而且 WordPress 那么有名，就用她搭建了自己的博客系统，而且也用了好长一段时间，但是学生期间，没有太多的钱，总不能去卖肾或者裸贷吧（裸贷人家估计也不给贷吧……），后来就没办法，没有再续了。</p>
-<p>虽然这一阶段也结束了，但是感觉比第一阶段要好一些</p>
-<h3 id="第三阶段：安安静静的做一个只写东西的“美男子”"><a href="#第三阶段：安安静静的做一个只写东西的“美男子”" class="headerlink" title="第三阶段：安安静静的做一个只写东西的“美男子”"></a>第三阶段：安安静静的做一个只写东西的“美男子”</h3><p>觉得独立博客的管理太麻烦，最好在保留控制权的前提下，让别人来管，自己只负责写文章。</p>
-<p>突然有一天，博客访问不到了，需要紧急处理；出来实习工作后，太忙了，没时间写博客，感觉投入产出比不高了……<br>慢慢的，小伙伴们发现独立博客虽然没有了免费空间的限制，但是管理、维护和金钱等各种成本太高了，于是有一大部分的朋友因为已经找到工作稳定了，慢慢的没有再写博客了；也有一部分同学开始去追寻能够保留控制权，而服务器等问题又能够交给别人处理，自己能够专心写博客的方式。<br>到了这个阶段，开始有朋友发现并且使用了Hexo + Github 的方式，而有着同样追求的我，也慢慢的跟着开始了这么一个历程～</p>
-<h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2>]]></content>
+<p>虽然这一阶段也结束了，但是感觉比第一阶段还要好一些，虽然没有初恋用了，都要靠自己的双手，但是依然可以解决问题，重要的是更快更舒服……</p>
+<h3 id="第三阶段：安安静静的做一个只写东西的“美男子”"><a href="#第三阶段：安安静静的做一个只写东西的“美男子”" class="headerlink" title="第三阶段：安安静静的做一个只写东西的“美男子”"></a>第三阶段：安安静静的做一个只写东西的“美男子”</h3><p>自力更生固然不错，但是，一旦自己有事，而这个时候服务器还出问题了，这个就像你已经忙的一个月没有解决生理问题了，晚上突然特别想的时候，没有女票，手还受伤了，不能动，嘴又够不上，此时……</p>
+<p>所以，现在想着如果能有人帮我解决了生理问题，但是一天还不管我，我想干什么就干什么，多么美好啊（千万不能让我女票看到，不然晚上又得跪键盘，睡沙发了）。慢慢觉得独立博客的管理太麻烦，最好在保留控制权的前提下，让别人来管，自己只负责写文章。</p>
+<p>上面提到了两个关键点</p>
+<ul>
+<li>忙：忙导致没时间管一些除了主要事情之外的一些东西。</li>
+<li>想的美：想要有女朋友，而且还要无拘无束的生活，你是不是想得美。</li>
+</ul>
+<p>有没有解决这个问题的办法呢？当然有，伟大的 github 推出了 pages 服务（码云也有），她可以托管静态网站，但是静态的对只写东西的人来说不就够了吗？她还允许我们自定义主题，她就解决了我上面的两个关键问题，那我肯定用她啊。</p>
+<p>既然女朋友（代码托管的地方——github pages）已经选好了，那么接下来该带去整容了，不然咋看啊，虽说晚上灯一关都一样，但是一想起来就软了……</p>
+<p>jelly 是 github pages 最好的搭配，但是我没有找到好看的脸型（主题，虽然我在菊花厂，但我还是比较喜欢 Google 的 Material Design），最后在 hexo 找到了这款主题，于是就用了这个脸型，可见女生漂亮是有多重要啊。</p>
+<h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>下面就开始介绍我选的女票和整的容了，如果你也跟我有同样的想法，我借你用几天可好……</p>
+<h3 id="Github"><a href="#Github" class="headerlink" title="Github"></a>Github</h3><h4 id="github"><a href="#github" class="headerlink" title="github"></a><a href="https://github.com/" target="_blank" rel="external">github</a></h4><p>GitHub 是一个面向开源及私有软件项目的托管平台，因为只支持 Git 作为唯一的版本库格式进行托管，故名 GitHub。作为开源代码库以及版本控制系统，Github 拥有超过900万开发者用户。随着越来越多的应用程序转移到了云上，Github已经成为了管理软件开发以及发现已有代码的首选方法。</p>
+<h4 id="github-pages"><a href="#github-pages" class="headerlink" title="github pages"></a><a href="https://pages.github.com/" target="_blank" rel="external">github pages</a></h4><p>为使项目更方便的被人理解，介绍页面少不了，甚至会需要完整的文档站，Github替你想到了这一点，他提供了Github Pages的服务，不仅可以方便的为项目建立介绍站点，也可以用来建立个人博客。</p>
+<p>Github Pages有以下几个优点：</p>
+<ul>
+<li>轻量级的博客系统，没有麻烦的配置</li>
+<li>使用标记语言，比如Markdown</li>
+<li>无需自己搭建服务器</li>
+<li>根据Github的限制，对应的每个站有300MB空间</li>
+<li>可以绑定自己的域名</li>
+</ul>
+<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2>]]></content>
     
     <summary type="html">
     
