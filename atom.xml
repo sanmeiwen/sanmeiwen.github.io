@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://sanmeiwen.github.io/"/>
-  <updated>2017-03-23T15:06:57.353Z</updated>
+  <updated>2017-03-23T15:10:10.561Z</updated>
   <id>https://sanmeiwen.github.io/</id>
   
   <author>
@@ -16,16 +16,30 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>用 github pages 和 hexo创建个人博客（一）——环境搭建</title>
-    <link href="https://sanmeiwen.github.io/2017/03/22/githubpages_1/"/>
-    <id>https://sanmeiwen.github.io/2017/03/22/githubpages_1/</id>
+    <title>githubpages_2</title>
+    <link href="https://sanmeiwen.github.io/2017/03/23/githubpages-2/"/>
+    <id>https://sanmeiwen.github.io/2017/03/23/githubpages-2/</id>
+    <published>2017-03-23T15:10:10.000Z</published>
+    <updated>2017-03-23T15:10:10.561Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>用 github pages 和 hexo创建个人博客（一）——简单介绍</title>
+    <link href="https://sanmeiwen.github.io/2017/03/22/githubpages-1/"/>
+    <id>https://sanmeiwen.github.io/2017/03/22/githubpages-1/</id>
     <published>2017-03-21T16:04:29.000Z</published>
-    <updated>2017-03-23T15:06:57.353Z</updated>
+    <updated>2017-03-23T15:11:10.134Z</updated>
     
     <content type="html"><![CDATA[<figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="/2017/03/22/githubpages_1/github_pages_hexo.png" alt="github" title="">
+                    <img src="/2017/03/22/githubpages-1/github_pages_hexo.png" alt="github" title="">
                 </div>
                 <div class="image-caption">github</div>
             </figure>
@@ -40,7 +54,7 @@
 <p>初恋总的来时还是很好用的，毕竟憋了好多年，怎么可能不好用嘛，想想假如你自己三天没吃饭了，给你狗粮，你都会觉得倍儿香（此处省略 47 个字）……<br><figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="/2017/03/22/githubpages_1/dog_eat.jpg" alt="看看你吃狗粮多开心啊……" title="">
+                    <img src="/2017/03/22/githubpages-1/dog_eat.jpg" alt="看看你吃狗粮多开心啊……" title="">
                 </div>
                 <div class="image-caption">看看你吃狗粮多开心啊……</div>
             </figure></p>
@@ -69,7 +83,7 @@
 <li>可以绑定自己的域名<figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="/2017/03/22/githubpages_1/" alt="github" title="">
+                    <img src="/2017/03/22/githubpages-1/github_pages_themes.png" alt="github" title="">
                 </div>
                 <div class="image-caption">github</div>
             </figure>
@@ -81,11 +95,15 @@
 <ul>
 <li>免费，无限流量。</li>
 <li>享受git的版本管理功能，不用担心文章遗失。</li>
-<li>专注于我们自己的博客内容，其他诸如服务器管理的事情交给Github即可<br>当然啦，万事有利有弊。这种方式也有它的弊端:</li>
+<li>专注于我们自己的博客内容，其他诸如服务器管理的事情交给Github即可</li>
+</ul>
+<p>当然啦，万事有利有弊。这种方式也有它的弊端:</p>
+<ul>
 <li>有一定技术门槛，你必须要懂一点git和网页开发。</li>
 <li>生成的是静态网页，添加动态功能必须使用外部服务，比如评论功能我们使用多说。</li>
-<li>不适合大型网站，因为没有用到数据库，每运行一次都必须遍历全部的文本文件，网站越大，生成时间越长。<br>但是，这已经基本满足我们第三阶段的需求啦。</li>
+<li>不适合大型网站，因为没有用到数据库，每运行一次都必须遍历全部的文本文件，网站越大，生成时间越长。</li>
 </ul>
+<p>但是，这已经基本满足我们第三阶段的需求啦。</p>
 <h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2>]]></content>
     
     <summary type="html">
