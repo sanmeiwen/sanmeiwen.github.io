@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://sanmeiwen.github.io/"/>
-  <updated>2017-03-23T15:00:58.650Z</updated>
+  <updated>2017-03-23T15:06:57.353Z</updated>
   <id>https://sanmeiwen.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://sanmeiwen.github.io/2017/03/22/githubpages_1/"/>
     <id>https://sanmeiwen.github.io/2017/03/22/githubpages_1/</id>
     <published>2017-03-21T16:04:29.000Z</published>
-    <updated>2017-03-23T15:00:58.650Z</updated>
+    <updated>2017-03-23T15:06:57.353Z</updated>
     
     <content type="html"><![CDATA[<figure class="image-bubble">
                 <div class="img-lightbox">
@@ -59,14 +59,32 @@
 <p>jelly 是 github pages 最好的搭配，但是我没有找到好看的脸型（主题，虽然我在菊花厂，但我还是比较喜欢 Google 的 Material Design），最后在 hexo 找到了这款主题，于是就用了这个脸型，可见女生漂亮是有多重要啊。</p>
 <h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>下面就开始介绍我选的女票和整的容了，如果你也跟我有同样的想法，我借你用几天可好……</p>
 <h3 id="Github"><a href="#Github" class="headerlink" title="Github"></a>Github</h3><h4 id="github"><a href="#github" class="headerlink" title="github"></a><a href="https://github.com/" target="_blank" rel="external">github</a></h4><p>GitHub 是一个面向开源及私有软件项目的托管平台，因为只支持 Git 作为唯一的版本库格式进行托管，故名 GitHub。作为开源代码库以及版本控制系统，Github 拥有超过900万开发者用户。随着越来越多的应用程序转移到了云上，Github已经成为了管理软件开发以及发现已有代码的首选方法。</p>
-<h4 id="github-pages"><a href="#github-pages" class="headerlink" title="github pages"></a><a href="https://pages.github.com/" target="_blank" rel="external">github pages</a></h4><p>为使项目更方便的被人理解，介绍页面少不了，甚至会需要完整的文档站，Github替你想到了这一点，他提供了Github Pages的服务，不仅可以方便的为项目建立介绍站点，也可以用来建立个人博客。</p>
-<p>Github Pages有以下几个优点：</p>
+<h4 id="github-pages"><a href="#github-pages" class="headerlink" title="github pages"></a><a href="https://pages.github.com/" target="_blank" rel="external">github pages</a></h4><p>为使项目更方便的被人理解，介绍页面少不了，甚至会需要完整的文档站，Github 替你想到了这一点，他提供了 Github Pages 的服务，不仅可以方便的为项目建立介绍站点，也可以用来建立个人博客。</p>
+<p>Github Pages 有以下几个优点：</p>
 <ul>
 <li>轻量级的博客系统，没有麻烦的配置</li>
-<li>使用标记语言，比如Markdown</li>
+<li>使用标记语言，比如 Markdown</li>
 <li>无需自己搭建服务器</li>
-<li>根据Github的限制，对应的每个站有300MB空间</li>
-<li>可以绑定自己的域名</li>
+<li>根据 Github 的限制，对应的每个站有 300MB 空间</li>
+<li>可以绑定自己的域名<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="/2017/03/22/githubpages_1/" alt="github" title="">
+                </div>
+                <div class="image-caption">github</div>
+            </figure>
+</li>
+</ul>
+<h3 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a><a href="https://hexo.io/zh-cn/" target="_blank" rel="external">hexo</a></h3><p>按照官网的说法，Hexo是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。</p>
+<h3 id="Hexo-Github"><a href="#Hexo-Github" class="headerlink" title="Hexo + Github"></a>Hexo + Github</h3><p>通过上面的介绍，大家对Hexo和Github已经有了大概的了解。<br>没错，我们的方式就是，利用Markdown进行博客的编写，通过Hexo这个框架解析生成靓丽的静态页面，然后部署到Github上供大家浏览。</p>
+<p>这种方法具备好处是:</p>
+<ul>
+<li>免费，无限流量。</li>
+<li>享受git的版本管理功能，不用担心文章遗失。</li>
+<li>专注于我们自己的博客内容，其他诸如服务器管理的事情交给Github即可<br>当然啦，万事有利有弊。这种方式也有它的弊端:</li>
+<li>有一定技术门槛，你必须要懂一点git和网页开发。</li>
+<li>生成的是静态网页，添加动态功能必须使用外部服务，比如评论功能我们使用多说。</li>
+<li>不适合大型网站，因为没有用到数据库，每运行一次都必须遍历全部的文本文件，网站越大，生成时间越长。<br>但是，这已经基本满足我们第三阶段的需求啦。</li>
 </ul>
 <h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2>]]></content>
     
