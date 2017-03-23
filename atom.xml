@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://sanmeiwen.github.io/"/>
-  <updated>2017-03-23T15:18:18.999Z</updated>
+  <updated>2017-03-23T15:18:29.219Z</updated>
   <id>https://sanmeiwen.github.io/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>用 github pages 和 hexo创建个人博客（一）——环境搭建</title>
+    <title>用 github pages 和 hexo创建个人博客（二）——环境搭建</title>
     <link href="https://sanmeiwen.github.io/2017/03/23/githubpages-2/"/>
     <id>https://sanmeiwen.github.io/2017/03/23/githubpages-2/</id>
     <published>2017-03-23T15:10:10.000Z</published>
-    <updated>2017-03-23T15:18:18.999Z</updated>
+    <updated>2017-03-23T15:18:29.219Z</updated>
     
     <content type="html"><![CDATA[<figure class="image-bubble">
                 <div class="img-lightbox">
