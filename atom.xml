@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://sanmeiwen.github.io/"/>
-  <updated>2017-03-23T15:10:10.561Z</updated>
+  <updated>2017-03-23T15:18:18.999Z</updated>
   <id>https://sanmeiwen.github.io/</id>
   
   <author>
@@ -16,16 +16,36 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>githubpages_2</title>
+    <title>用 github pages 和 hexo创建个人博客（一）——环境搭建</title>
     <link href="https://sanmeiwen.github.io/2017/03/23/githubpages-2/"/>
     <id>https://sanmeiwen.github.io/2017/03/23/githubpages-2/</id>
     <published>2017-03-23T15:10:10.000Z</published>
-    <updated>2017-03-23T15:10:10.561Z</updated>
+    <updated>2017-03-23T15:18:18.999Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="/2017/03/23/githubpages-2/github_pages_hexo.png" alt="github" title="">
+                </div>
+                <div class="image-caption">github</div>
+            </figure>
+]]></content>
     
     <summary type="html">
     
+      &lt;figure class=&quot;image-bubble&quot;&gt;
+                &lt;div class=&quot;img-lightbox&quot;&gt;
+                    &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
+                   
+    
     </summary>
     
+      <category term="IT" scheme="https://sanmeiwen.github.io/categories/IT/"/>
+    
+    
+      <category term="github pages" scheme="https://sanmeiwen.github.io/tags/github-pages/"/>
+    
+      <category term="hexo" scheme="https://sanmeiwen.github.io/tags/hexo/"/>
     
   </entry>
   
@@ -34,7 +54,7 @@
     <link href="https://sanmeiwen.github.io/2017/03/22/githubpages-1/"/>
     <id>https://sanmeiwen.github.io/2017/03/22/githubpages-1/</id>
     <published>2017-03-21T16:04:29.000Z</published>
-    <updated>2017-03-23T15:14:07.738Z</updated>
+    <updated>2017-03-23T15:15:56.607Z</updated>
     
     <content type="html"><![CDATA[<figure class="image-bubble">
                 <div class="img-lightbox">
@@ -104,7 +124,7 @@
 <li>不适合大型网站，因为没有用到数据库，每运行一次都必须遍历全部的文本文件，网站越大，生成时间越长。</li>
 </ul>
 <p>但是，这已经基本满足我们第三阶段的需求啦。</p>
-<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2>]]></content>
+]]></content>
     
     <summary type="html">
     
