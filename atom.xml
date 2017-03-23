@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://sanmeiwen.github.io/"/>
-  <updated>2017-03-23T15:18:29.219Z</updated>
+  <updated>2017-03-23T15:27:32.316Z</updated>
   <id>https://sanmeiwen.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://sanmeiwen.github.io/2017/03/23/githubpages-2/"/>
     <id>https://sanmeiwen.github.io/2017/03/23/githubpages-2/</id>
     <published>2017-03-23T15:10:10.000Z</published>
-    <updated>2017-03-23T15:18:29.219Z</updated>
+    <updated>2017-03-23T15:27:32.316Z</updated>
     
     <content type="html"><![CDATA[<figure class="image-bubble">
                 <div class="img-lightbox">
@@ -47,6 +47,8 @@
     
       <category term="hexo" scheme="https://sanmeiwen.github.io/tags/hexo/"/>
     
+      <category term="indigo" scheme="https://sanmeiwen.github.io/tags/indigo/"/>
+    
   </entry>
   
   <entry>
@@ -54,7 +56,7 @@
     <link href="https://sanmeiwen.github.io/2017/03/22/githubpages-1/"/>
     <id>https://sanmeiwen.github.io/2017/03/22/githubpages-1/</id>
     <published>2017-03-21T16:04:29.000Z</published>
-    <updated>2017-03-23T15:15:56.607Z</updated>
+    <updated>2017-03-23T15:27:32.330Z</updated>
     
     <content type="html"><![CDATA[<figure class="image-bubble">
                 <div class="img-lightbox">
@@ -115,7 +117,7 @@
 <ul>
 <li>免费，无限流量。</li>
 <li>享受git的版本管理功能，不用担心文章遗失。</li>
-<li>专注于我们自己的博客内容，其他诸如服务器管理的事情交给Github即可</li>
+<li>专注于我们自己的博客内容，其他诸如服务器管理的事情交给Github即可。</li>
 </ul>
 <p>当然啦，万事有利有弊。这种方式也有它的弊端:</p>
 <ul>
@@ -141,6 +143,8 @@
       <category term="github pages" scheme="https://sanmeiwen.github.io/tags/github-pages/"/>
     
       <category term="hexo" scheme="https://sanmeiwen.github.io/tags/hexo/"/>
+    
+      <category term="indigo" scheme="https://sanmeiwen.github.io/tags/indigo/"/>
     
   </entry>
   
