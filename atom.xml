@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://sanmeiwen.github.io/"/>
-  <updated>2017-03-27T15:51:55.565Z</updated>
+  <updated>2017-03-27T15:59:02.798Z</updated>
   <id>https://sanmeiwen.github.io/</id>
   
   <author>
@@ -16,11 +16,85 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>用 github pages 和 hexo创建个人博客（四）——Hexo indigo 主题</title>
+    <link href="https://sanmeiwen.github.io/2017/03/27/githubpages-4/"/>
+    <id>https://sanmeiwen.github.io/2017/03/27/githubpages-4/</id>
+    <published>2017-03-27T15:57:44.000Z</published>
+    <updated>2017-03-27T15:59:02.798Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="/2017/03/27/githubpages-4/github_pages_hexo.png" alt="github" title="">
+                </div>
+                <div class="image-caption">github</div>
+            </figure>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><h2 id="结束语"><a href="#结束语" class="headerlink" title="结束语"></a>结束语</h2><p>完结</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;figure class=&quot;image-bubble&quot;&gt;
+                &lt;div class=&quot;img-lightbox&quot;&gt;
+                    &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
+                   
+    
+    </summary>
+    
+      <category term="IT" scheme="https://sanmeiwen.github.io/categories/IT/"/>
+    
+    
+      <category term="github pages" scheme="https://sanmeiwen.github.io/tags/github-pages/"/>
+    
+      <category term="hexo" scheme="https://sanmeiwen.github.io/tags/hexo/"/>
+    
+      <category term="indigo" scheme="https://sanmeiwen.github.io/tags/indigo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用 github pages 和 hexo创建个人博客（三）——hello world</title>
+    <link href="https://sanmeiwen.github.io/2017/03/27/githubpages-3/"/>
+    <id>https://sanmeiwen.github.io/2017/03/27/githubpages-3/</id>
+    <published>2017-03-27T15:55:06.000Z</published>
+    <updated>2017-03-27T15:59:02.782Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="/2017/03/27/githubpages-3/github_pages_hexo.png" alt="github" title="">
+                </div>
+                <div class="image-caption">github</div>
+            </figure>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><h2 id="结束语"><a href="#结束语" class="headerlink" title="结束语"></a>结束语</h2><p>扯了这么久的蛋了，下篇文章将介绍用 github pages 和 hexo创建个人博客（四）——Hexo indigo 主题。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;figure class=&quot;image-bubble&quot;&gt;
+                &lt;div class=&quot;img-lightbox&quot;&gt;
+                    &lt;div class=&quot;overlay&quot;&gt;&lt;/div&gt;
+                   
+    
+    </summary>
+    
+      <category term="IT" scheme="https://sanmeiwen.github.io/categories/IT/"/>
+    
+    
+      <category term="github pages" scheme="https://sanmeiwen.github.io/tags/github-pages/"/>
+    
+      <category term="hexo" scheme="https://sanmeiwen.github.io/tags/hexo/"/>
+    
+      <category term="indigo" scheme="https://sanmeiwen.github.io/tags/indigo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>用 github pages 和 hexo创建个人博客（二）——环境搭建</title>
     <link href="https://sanmeiwen.github.io/2017/03/23/githubpages-2/"/>
     <id>https://sanmeiwen.github.io/2017/03/23/githubpages-2/</id>
     <published>2017-03-23T15:10:10.000Z</published>
-    <updated>2017-03-27T15:51:55.565Z</updated>
+    <updated>2017-03-27T15:57:38.016Z</updated>
     
     <content type="html"><![CDATA[<figure class="image-bubble">
                 <div class="img-lightbox">
@@ -37,7 +111,7 @@
 <p>NodeJS 安装：<a href="https://www.baidu.com/link?url=b0fJ1JDHrP8Lvq14qIeVGTWvd-Xy_Gz-6ewo8hPkdfJM-ExccIApt7cK1Y6JkLSKQwSjfqfECIAqOBcF2Q6rOuzljCaQfk4iV9I-6Y1wIGy&amp;wd=&amp;eqid=d349939f00023a3c0000000658d92f21" target="_blank" rel="external">windows 下安装nodejs_百度经验</a></p>
 <h3 id="NodeJS-验证"><a href="#NodeJS-验证" class="headerlink" title="NodeJS 验证"></a>NodeJS 验证</h3><p>下载并且安装完成后，打开终端执行以下命令进行验证<br><code>node -v</code><br>如果终端输出类似下面的内容，说明安装成功了<br><code>v6.9.4</code></p>
 <h3 id="环境搭建-Hexo"><a href="#环境搭建-Hexo" class="headerlink" title="环境搭建 - Hexo"></a>环境搭建 - Hexo</h3><p>执行以下命令进行Hexo框架的基本安装<br><code>npm install hexo-cli -g</code></p>
-<h2 id="结束语"><a href="#结束语" class="headerlink" title="结束语"></a>结束语</h2><p>恭喜你，至此，关于利用Hexo + Github 搭建个人博客所需要的基本环境已经准备完毕。下篇文章将介绍使用 github pages 和 hexo创建个人博客（二）——hello world。</p>
+<h2 id="结束语"><a href="#结束语" class="headerlink" title="结束语"></a>结束语</h2><p>恭喜你，至此，关于利用Hexo + Github 搭建个人博客所需要的基本环境已经准备完毕。下篇文章将介绍使用 github pages 和 hexo创建个人博客（三）——hello world。</p>
 ]]></content>
     
     <summary type="html">
