@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://sanmeiwen.github.io/"/>
-  <updated>2017-03-23T15:27:32.316Z</updated>
+  <updated>2017-03-27T15:37:54.163Z</updated>
   <id>https://sanmeiwen.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://sanmeiwen.github.io/2017/03/23/githubpages-2/"/>
     <id>https://sanmeiwen.github.io/2017/03/23/githubpages-2/</id>
     <published>2017-03-23T15:10:10.000Z</published>
-    <updated>2017-03-23T15:27:32.316Z</updated>
+    <updated>2017-03-27T15:37:54.163Z</updated>
     
     <content type="html"><![CDATA[<figure class="image-bubble">
                 <div class="img-lightbox">
@@ -29,6 +29,14 @@
                 </div>
                 <div class="image-caption">github</div>
             </figure>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>上篇文章 <a href="https://sanmeiwen.github.io/2017/03/22/githubpages-1/">用 github pages 和 hexo创建个人博客（一）——简单介绍</a> 已经说的很多废话了，本篇文章将正式为你掀起她的裙子。</p>
+<h2 id="操作系统信息"><a href="#操作系统信息" class="headerlink" title="操作系统信息"></a>操作系统信息</h2><p>windows 10（本文使用的平台环境）<br>其他系统不要担心，下面会提到怎么做的，请仔细看好了，不然漏了重要部位就不好了……</p>
+<h2 id="环境搭建-Git"><a href="#环境搭建-Git" class="headerlink" title="环境搭建 - Git"></a>环境搭建 - Git</h2><h3 id="git-安装"><a href="#git-安装" class="headerlink" title="git 安装"></a>git 安装</h3><p>git 安装请参考： <a href="http://jingyan.baidu.com/article/020278117cbe921bcc9ce51c.html" target="_blank" rel="external">图文详解Windows下安装最新版Git_百度经验</a></p>
+<h3 id="git-验证"><a href="#git-验证" class="headerlink" title="git 验证"></a>git 验证</h3><p>下载并且安装完成后，打开终端执行以下命令进行验证<br><code>git --version</code><br>如果终端输出类似下面的内容，说明安装成功了<br><code>git version 2.9.3.windows.1</code></p>
+<h2 id="环境搭建-NodeJS"><a href="#环境搭建-NodeJS" class="headerlink" title="环境搭建 - NodeJS"></a>环境搭建 - NodeJS</h2><h3 id="NodeJS-安装"><a href="#NodeJS-安装" class="headerlink" title="NodeJS 安装"></a>NodeJS 安装</h3><p>下载地址: <a href="https://nodejs.org/download/" target="_blank" rel="external">https://nodejs.org/download/</a></p>
+<p>NodeJS 安装：<a href="https://www.baidu.com/link?url=b0fJ1JDHrP8Lvq14qIeVGTWvd-Xy_Gz-6ewo8hPkdfJM-ExccIApt7cK1Y6JkLSKQwSjfqfECIAqOBcF2Q6rOuzljCaQfk4iV9I-6Y1wIGy&amp;wd=&amp;eqid=d349939f00023a3c0000000658d92f21" target="_blank" rel="external">windows 下安装nodejs_百度经验</a></p>
+<h3 id="NodeJS-验证"><a href="#NodeJS-验证" class="headerlink" title="NodeJS 验证"></a>NodeJS 验证</h3><p>下载并且安装完成后，打开终端执行以下命令进行验证<br><code>node -v</code><br>如果终端输出类似下面的内容，说明安装成功了<br><code>v6.9.4</code></p>
+<h2 id="环境搭建-Hexo"><a href="#环境搭建-Hexo" class="headerlink" title="环境搭建 - Hexo"></a>环境搭建 - Hexo</h2><p>执行以下命令进行Hexo框架的基本安装<br><code>npm install hexo-cli -g</code></p>
 ]]></content>
     
     <summary type="html">
