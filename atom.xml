@@ -57,7 +57,7 @@
     <link href="https://sanmeiwen.github.io/2017/03/27/githubpages-3/"/>
     <id>https://sanmeiwen.github.io/2017/03/27/githubpages-3/</id>
     <published>2017-03-27T15:55:06.000Z</published>
-    <updated>2017-03-29T15:35:09.445Z</updated>
+    <updated>2017-03-29T15:41:48.285Z</updated>
     
     <content type="html"><![CDATA[<figure class="image-bubble">
                 <div class="img-lightbox">
@@ -68,23 +68,16 @@
             </figure>
 <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>上篇文章 <a href="https://sanmeiwen.github.io/2017/03/22/githubpages-1/">用 github pages 和 hexo创建个人博客（二）——环境搭建</a> 已经打造好了本地环境，本篇文章将让你把她搂在怀中，慢慢脱掉她的衣服，“深入”地了解她……</p>
 <h2 id="初始化博客"><a href="#初始化博客" class="headerlink" title="初始化博客"></a>初始化博客</h2><p>首先，我们需要按照下面的步骤进行博客的初始化：</p>
-<ol>
-<li><p>创建一个blog文件夹（可以命名为其他名字,这里以 blog 为例），进入blog文件夹<br><code>mkdir blog</code><br><code>cd blog</code></p>
-</li>
-<li><p>执行以下命令，Hexo将会在目标文件夹下建立博客需要的所有文件<br><code>hexo init</code><br>终端会输出:<br><code>INFO  Copying data to ~/workspace/git/blog
-INFO  You are almost done! Don&#39;t forget to run &#39;npm install&#39; before you start blogging with Hexo!</code></p>
-</li>
-</ol>
-<p>同时，blog目录下会生成以下文件:</p>
+<h3 id="创建工作空间"><a href="#创建工作空间" class="headerlink" title="创建工作空间"></a>创建工作空间</h3><p>创建一个blog文件夹（可以命名为其他名字,这里以 blog 为例），进入blog文件夹<br><code>mkdir blog</code><br><code>cd blog</code></p>
+<h3 id="hexo-初始化"><a href="#hexo-初始化" class="headerlink" title="hexo 初始化"></a>hexo 初始化</h3><p>执行以下命令，Hexo将会在目标文件夹下建立博客需要的所有文件<br><code>hexo init</code><br>终端会输出:<br><code>INFO  Copying data to ~/workspace/git/blog
+INFO  You are almost done! Don&#39;t forget to run &#39;npm install&#39; before you start blogging with Hexo!</code><br>同时，blog目录下会生成以下文件:</p>
 <ul>
 <li>scaffolds     存放创建文章时的模版</li>
 <li>source        用于存放我们用markdown编写的博文原文件、其他静态资源文件</li>
 <li>themes        用于存放主题，博客的默认主题landscape就在里面</li>
 <li>_config.yml   Hexo和站点的配置文件，里面可以设置博客的名字、标题、作者、链接格式等相关项</li>
 </ul>
-<ol>
-<li>执行以下命令进行依赖包安装（上面终端输出的东西里面也有提示这个命令）<br><code>npm install</code><br>执行成功后，blog目录下将会增加一个 node_modules 模块，用于保存将会使用到的 hexo 依赖包</li>
-</ol>
+<h3 id="安装-hexo-依赖包"><a href="#安装-hexo-依赖包" class="headerlink" title="安装 hexo 依赖包"></a>安装 hexo 依赖包</h3><p>执行以下命令进行依赖包安装（上面终端输出的东西里面也有提示这个命令）<br><code>npm install</code><br>执行成功后，blog目录下将会增加一个 node_modules 模块，用于保存将会使用到的 hexo 依赖包</p>
 <h2 id="博客配置"><a href="#博客配置" class="headerlink" title="博客配置"></a>博客配置</h2><h2 id="结束语"><a href="#结束语" class="headerlink" title="结束语"></a>结束语</h2><p>扯了这么久的蛋了，下篇文章将介绍用 github pages 和 hexo创建个人博客（四）——Hexo indigo 主题。</p>
 ]]></content>
     
