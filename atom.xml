@@ -57,7 +57,7 @@
     <link href="https://sanmeiwen.github.io/2017/03/27/githubpages-3/"/>
     <id>https://sanmeiwen.github.io/2017/03/27/githubpages-3/</id>
     <published>2017-03-27T15:55:06.000Z</published>
-    <updated>2017-03-29T15:41:48.285Z</updated>
+    <updated>2017-03-29T15:42:46.430Z</updated>
     
     <content type="html"><![CDATA[<figure class="image-bubble">
                 <div class="img-lightbox">
@@ -66,7 +66,7 @@
                 </div>
                 <div class="image-caption">github</div>
             </figure>
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>上篇文章 <a href="https://sanmeiwen.github.io/2017/03/22/githubpages-1/">用 github pages 和 hexo创建个人博客（二）——环境搭建</a> 已经打造好了本地环境，本篇文章将让你把她搂在怀中，慢慢脱掉她的衣服，“深入”地了解她……</p>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>上篇文章 <a href="https://sanmeiwen.github.io/2017/03/22/githubpages-2/">用 github pages 和 hexo创建个人博客（二）——环境搭建</a> 已经打造好了本地环境，本篇文章将让你把她搂在怀中，慢慢脱掉她的衣服，“深入”地了解她……</p>
 <h2 id="初始化博客"><a href="#初始化博客" class="headerlink" title="初始化博客"></a>初始化博客</h2><p>首先，我们需要按照下面的步骤进行博客的初始化：</p>
 <h3 id="创建工作空间"><a href="#创建工作空间" class="headerlink" title="创建工作空间"></a>创建工作空间</h3><p>创建一个blog文件夹（可以命名为其他名字,这里以 blog 为例），进入blog文件夹<br><code>mkdir blog</code><br><code>cd blog</code></p>
 <h3 id="hexo-初始化"><a href="#hexo-初始化" class="headerlink" title="hexo 初始化"></a>hexo 初始化</h3><p>执行以下命令，Hexo将会在目标文件夹下建立博客需要的所有文件<br><code>hexo init</code><br>终端会输出:<br><code>INFO  Copying data to ~/workspace/git/blog
